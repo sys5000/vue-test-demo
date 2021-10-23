@@ -5,7 +5,7 @@
         <h1>
 
 
-           Even Globoticket Customer Service Chat
+           Globoticket Customer Service Chat
 
         </h1>
 
